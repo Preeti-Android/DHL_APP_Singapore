@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.barteksc:android-pdf-viewer:2.6.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.1.1-all/caches/transforms-2/files-2.1/5270442b78cb876d485727b597b63422/jetified-android-pdf-viewer-2.6.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-6.1.1-all/caches/transforms-2/files-2.1/5270442b78cb876d485727b597b63422/jetified-android-pdf-viewer-2.6.1/res" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-6.1.1-all/caches/transforms-2/files-2.1/5270442b78cb876d485727b597b63422/jetified-android-pdf-viewer-2.6.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.1.1-all/caches/modules-2/files-2.1/com.github.barteksc/android-pdf-viewer/2.6.1/eb730a024ebdfea340def9e3bc95cd65648d9ef6/android-pdf-viewer-2.6.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.1.1-all/caches/modules-2/files-2.1/com.github.barteksc/android-pdf-viewer/2.6.1/dfebc627b60a75b87270457ef5944dcecf0e56cc/android-pdf-viewer-2.6.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

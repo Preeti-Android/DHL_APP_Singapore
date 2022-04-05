@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:tools-release:unspecified">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tools-release/build/.transforms/43dd14cfb9bde155204084472fcfc31b/jetified-tools-release/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/tools-release/build/.transforms/43dd14cfb9bde155204084472fcfc31b/jetified-tools-release/res" />
+      <root url="file://$PROJECT_DIR$/tools-release/build/.transforms/43dd14cfb9bde155204084472fcfc31b/jetified-tools-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

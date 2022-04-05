@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: im.ene.toro3:toro:3.0.0-beta1@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.1.1-all/caches/transforms-2/files-2.1/6c80cef27f8d535def6abf3e05120a5a/jetified-toro-3.0.0-beta1/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.1.1-all/caches/transforms-2/files-2.1/6c80cef27f8d535def6abf3e05120a5a/jetified-toro-3.0.0-beta1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-6.1.1-all/caches/transforms-2/files-2.1/6c80cef27f8d535def6abf3e05120a5a/jetified-toro-3.0.0-beta1/res" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-6.1.1-all/caches/transforms-2/files-2.1/6c80cef27f8d535def6abf3e05120a5a/jetified-toro-3.0.0-beta1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.1.1-all/caches/modules-2/files-2.1/im.ene.toro3/toro/3.0.0-beta1/2fa9f92254cbe5113054cec0ddd93f334d369e8a/toro-3.0.0-beta1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.1.1-all/caches/modules-2/files-2.1/im.ene.toro3/toro/3.0.0-beta1/efd3f1ec1a7599e9be0d31e9bd5101070778bddb/toro-3.0.0-beta1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

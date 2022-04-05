@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.albinmathew:photo-crop-library:1.0.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.1.1-all/caches/transforms-2/files-2.1/f168705539017f6df8206625eca5cf29/jetified-photo-crop-library-1.0.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-6.1.1-all/caches/transforms-2/files-2.1/f168705539017f6df8206625eca5cf29/jetified-photo-crop-library-1.0.3/res" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-6.1.1-all/caches/transforms-2/files-2.1/f168705539017f6df8206625eca5cf29/jetified-photo-crop-library-1.0.3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.1.1-all/caches/modules-2/files-2.1/com.albinmathew/photo-crop-library/1.0.3/56d4df1e2b7cca4e81aaf5a46bbbe6c5e86d5df3/photo-crop-library-1.0.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.1.1-all/caches/modules-2/files-2.1/com.albinmathew/photo-crop-library/1.0.3/a77651da82dec80a6a4e4c2d841fcb02fb3f717a/photo-crop-library-1.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
